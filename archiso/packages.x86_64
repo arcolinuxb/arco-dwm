@@ -536,7 +536,7 @@ arcolinux-zsh-git
 #                           ARCOLINUX DESKTOP FOLDER
 ###########################################################################
 
-arcolinux-awesome-git
+#arcolinux-awesome-git
 #arcolinux-bspwm-git
 #arcolinux-budgie-git
 #arcolinux-cinnamon-git
@@ -567,7 +567,7 @@ arcolinux-xfce-git
 #                           ARCOLINUX CONFIG FOLDER
 ###########################################################################
 
-arcolinux-config-awesome-git
+#arcolinux-config-awesome-git
 #arcolinux-config-bspwm-git
 #arcolinux-config-budgie-git
 #arcolinux-config-cinnamon-git
@@ -596,7 +596,7 @@ arcolinux-config-dwm-git
 #                           ARCOLINUX DCONF FOLDER
 ###########################################################################
 
-arcolinux-awesome-dconf-git
+#arcolinux-awesome-dconf-git
 #arcolinux-bspwm-dconf-git
 #arcolinux-budgie-dconf-git
 #arcolinux-cinnamon-dconf-git
@@ -824,5 +824,5 @@ xfce4-taskmanager
 #polybar
 #polybar
 
-#desktop specific awesome
+#desktop specific dwm
 sxhkd
