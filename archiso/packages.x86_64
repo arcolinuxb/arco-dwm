@@ -660,7 +660,7 @@ adobe-source-han-sans-cn-fonts
 #                                ARCOLINUX CONFIG CALAMARES
 ###########################################################################
 
-arcob-calamares-config-awesome-git
+#arcob-calamares-config-awesome-git
 #arcob-calamares-config-bspwm-git
 #arcob-calamares-config-budgie-git
 #arcob-calamares-config-cinnamon-git
