@@ -828,3 +828,5 @@ xfce4-taskmanager
 
 #desktop specific dwm
 sxhkd
+
+autorandr
