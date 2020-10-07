@@ -446,8 +446,8 @@ pamac-aur
 python-pyparted
 #python-pywal
 #screenkey-git
-#sublime-text-dev
-#the_platinum_searcher-bin
+sublime-text-dev
+the_platinum_searcher-bin
 tmux
 trizen
 urxvt-perls
