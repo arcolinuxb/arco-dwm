@@ -913,9 +913,7 @@ xfce4-taskmanager
 #                                ISO SPECIFIC
 ###########################################################################
 
-#polybar
-#polybar
-
 #desktop specific dwm
 sxhkd
 autorandr
+arcolinux-dwm-pacman-hook-git
